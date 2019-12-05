@@ -1,6 +1,6 @@
 #### 1
 #### 2
-#### 3
+#### 3 This is my 2nd least favorite class
 #### 4
 #### 5
 #### 6
